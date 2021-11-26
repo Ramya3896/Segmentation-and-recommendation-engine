@@ -13,7 +13,9 @@ The features are: Alcohol content, Malic_Acid, Ash, Ash_Alcanity, Magnesium, Tot
  
 ## Segmentation
 From the elbow method, the optimal number of clusters is found to be 3.
+Elbow method:
+
 ![download](https://user-images.githubusercontent.com/45202209/143525307-79d28f8e-771e-4764-8171-5ae1ebdd8f70.png)
 
-### The number of clusters in the given dataset is also 3. Thus algorithm has performed well in identifying the number of clusters.
+#### The number of clusters in the given dataset is also 3. Thus we can say that algorithm has performed well in identifying the number of clusters.
 
