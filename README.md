@@ -19,3 +19,8 @@ Elbow method:
 
 #### The number of clusters in the given dataset is also 3. Thus we can say that algorithm has performed well in identifying the number of clusters.
 
+# Recommendation System
+
+Here the objective is to reduce the dimensionality of the data and predict to which segment the new type of wine can be recommended.
+
+Using frist 2 principle components, we can predict the segments of customers with great accuracy  using Logistic model.
